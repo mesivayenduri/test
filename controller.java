@@ -6,3 +6,4 @@ This line 5 of controller.java is for a bug fix
 This line 6 of controller.java is for a feature development
 This line 7 of controller.java is for a bug fix  2
 This line 8 of controller.java is for a feature development 2x
+This line 9 of controller.java is for a bug fix 3
